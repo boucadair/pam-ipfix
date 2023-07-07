@@ -371,7 +371,3 @@ This document requests IANA to add the following new IPFIX IEs to the IANA IPFIX
 {: title="New IPFIX Information Elements"}
 
 --- back
-# Acknowledgments
-{:numbered="false"}
-
-Thanks to xxx for the review.
