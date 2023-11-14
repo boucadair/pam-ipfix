@@ -2,10 +2,10 @@
 
 This is the working area for the individual Internet-Draft, "Export of Flow Precision Availability Metrics Using IPFIX".
 
-* [Editor's Copy](https://boucadair.github.io/pam-ipfix/#go.draft-clemm-opsawg-ippm-pam-ipfix.html)
-* [Datatracker Page](https://datatracker.ietf.org/doc/draft-clemm-opsawg-ippm-pam-ipfix)
-* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-clemm-opsawg-ippm-pam-ipfix)
-* [Compare Editor's Copy to Individual Draft](https://boucadair.github.io/pam-ipfix/#go.draft-clemm-opsawg-ippm-pam-ipfix.diff)
+* [Editor's Copy](https://boucadair.github.io/pam-ipfix/#go.draft-clemm-ippm-pam-ipfix.html)
+* [Datatracker Page](https://datatracker.ietf.org/doc/draft-clemm-ippm-pam-ipfix)
+* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-clemm-ippm-pam-ipfix)
+* [Compare Editor's Copy to Individual Draft](https://boucadair.github.io/pam-ipfix/#go.draft-clemm-ippm-pam-ipfix.diff)
 
 
 ## Contributing
