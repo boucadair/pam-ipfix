@@ -5,14 +5,14 @@
 OPSAWG                                                     A. Clemm, Ed.
 Internet-Draft                                                 Futurewei
 Intended status: Standards Track                            M. Boucadair
-Expires: 8 January 2024                                           Orange
+Expires: 17 May 2024                                              Orange
                                                                G. Mirsky
                                                                 Ericsson
-                                                             7 July 2023
+                                                        14 November 2023
 
 
        Export of Flow Precision Availability Metrics Using IPFIX
-                draft-clemm-opsawg-ippm-pam-ipfix-latest
+                   draft-clemm-ippm-pam-ipfix-latest
 
 Abstract
 
@@ -49,7 +49,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 8 January 2024.
+   This Internet-Draft will expire on 17 May 2024.
 
 Copyright Notice
 
@@ -469,9 +469,9 @@ Table of Contents
               Mirsky, G., Halpern, J. M., Min, X., Clemm, A., Strassner,
               J., and J. François, "Precision Availability Metrics for
               Services Governed by Service Level Objectives (SLOs)",
-              Work in Progress, Internet-Draft, draft-ietf-ippm-pam-04,
-              5 July 2023, <https://datatracker.ietf.org/doc/html/draft-
-              ietf-ippm-pam-04>.
+              Work in Progress, Internet-Draft, draft-ietf-ippm-pam-08,
+              18 October 2023, <https://datatracker.ietf.org/doc/html/
+              draft-ietf-ippm-pam-08>.
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
