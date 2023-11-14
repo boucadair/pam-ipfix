@@ -1,7 +1,7 @@
 ---
 title: Export of Flow Precision Availability Metrics Using IPFIX
 abbrev: pam-ipfix
-docname: draft-clemm-opsawg-ippm-pam-ipfix-latest
+docname: draft-clemm-ippm-pam-ipfix-latest
 wg: OPSAWG
 category: std
 ipr: trust200902
